@@ -1,1 +1,7 @@
-# little-lemon_back-end
+/api/booking/
+
+/api/menu/
+
+/auth/token/login/
+
+/auth/token/logout/
